@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @devBuggs
-- 👀 I’m interested in Design & Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Bhagwan Singh @devBuggs
+- 👀 I’m passionate about design and development with problem-solving skills.
+- 🌱 I’m currently seeking for entry-level software/web developer job
+- 💞️ Love to Code 
 
 <!---
 devBuggs/devBuggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
