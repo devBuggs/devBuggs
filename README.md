@@ -7,7 +7,3 @@
 devBuggs/devBuggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<marquee behavior="scroll" direction="right" scrollamount="12">Bhagwan Singh</marquee>
-<marquee behavior="scroll" direction="left" scrollamount="20">Bhagwan Singh</marquee>
-<marquee behavior="scroll" direction="right" scrollamount="50">Bhagwan Singh</marquee>
