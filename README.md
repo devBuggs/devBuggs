@@ -11,7 +11,4 @@
 
 - 📫 How to reach me **bhagwan.5602@gmail.com**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/devBuggs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devBuggs" /></a><a href="https://ko-fi.com/devBuggs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devBuggs" /></a></p><br><br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbuggs&show_icons=true&locale=en" alt="devbuggs" /></p>
