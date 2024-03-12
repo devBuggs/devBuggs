@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbuggs&label=Profile%20views&color=0e75b6&style=flat" alt="devbuggs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbuggs" alt="devbuggs" /></a> </p>
-
 - 🔭 I’m currently working on [Shopify-Live-Chat](https://growwise.club/shopify/login/)
 
 - 💬 Ask me about **React, node and python**
