@@ -9,4 +9,5 @@
 
 - 📫 How to reach me **bhagwan.5602@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbuggs&show_icons=true&locale=en" alt="devbuggs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=devbuggs" alt="devbuggs" /></p>
