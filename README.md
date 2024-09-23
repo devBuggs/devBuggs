@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbuggs&label=Profile%20views&color=0e75b6&style=flat" alt="devbuggs" /> </p>
 
-- 🔭 I’m currently working on [Shopify-Live-Chat](https://growwise.club/shopify/login/)
+- 🔭 I’m currently working on [Freelancer Workspace Dashboard](https://workspace.ecorpin.com)
 
-- 💬 Ask me about **React, node and python**
+- 💬 Ask me about **Javascript and python**
 
 - 📫 How to reach me **bhagwan.5602@gmail.com**
 
