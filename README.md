@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhagwan Singh</h1>
 <h3 align="center">A passionate full-stack developer from India working with frontend & backend and in between everything.</h3>
 
-### Full-Stack Developer | React.js | TypeScript | Next.js | MERN | Angular
+### Full-Stack Developer | MERN | React.js | TypeScript | Next.js |  Django
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbuggs&label=Profile%20views&color=0e75b6&style=flat" alt="devbuggs" /> </p>
 
-- 🔭 I’m currently working on [Workspace Dashboard](https://workspace.ecorpin.com)
+- 🔭 I’m currently working on [Mobilship ](https://ecorpin.com)
 
 - 💬 Ask me about **Javascript and python**
 
-- 📫 How to reach me **bhagwan.5602@gmail.com**
+- 📫 How to reach me **bhagwan.5602@gmail.com** & **[LinkedIn](https://www.linkedin.com/in/bhagwan-singh/)**
 
 
 # 💻 Tech Stack:
@@ -21,7 +21,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=devbuggs&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devbuggs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=devbuggs&icon=0&color=0)](https://visitcount.itsvg.in)
