@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhagwan Singh</h1>
 <h3 align="center">A passionate full-stack developer from India working with frontend & backend and in between everything.</h3>
 
-### Full-Stack Developer | MERN | React.js | TypeScript | Next.js |  Django
+### Full-Stack Developer | MERN | React.js | TypeScript | Next.js |  Django | Python
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbuggs&label=Profile%20views&color=0e75b6&style=flat" alt="devbuggs" /> </p>
 
