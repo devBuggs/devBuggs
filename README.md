@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhagwan Singh</h1>
+<h1 align="center">Hello 👋, I'm Bhagwan Singh</h1>
 <h3 align="center">A passionate full-stack developer from India working with frontend & backend and in between everything.</h3>
 
 ### Full-Stack Developer | MERN | React.js | TypeScript | Next.js |  Django | Python
