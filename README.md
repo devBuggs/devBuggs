@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbuggs&label=Profile%20views&color=0e75b6&style=flat" alt="devbuggs" /> </p>
 
-- 🔭 I’m currently working on [Mobilship ](https://ecorpin.com)
+- 🔭 I’m currently working on [Trading-Algo](Groww)
 
 - 💬 Ask me about **Javascript and python**
 
